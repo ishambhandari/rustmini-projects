@@ -1,0 +1,7 @@
+#+TITLE:PORT SCANNER
+
+
+** Available commands
+*** <appname> --help or <appname> -h = Help command
+*** <appname> <ipaddress> = scans the ip address and shows open port
+*** <appname> -j <thread count> <ipaddress> = sets custom threads scan the port (default is 4)
